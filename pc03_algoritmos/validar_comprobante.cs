@@ -2,7 +2,7 @@
 
 class ValidarComprobante
 {
-    static void Main(string[] args)
+    public static void Ejecutar()
     {
         Console.WriteLine("VALIDAR COMPROBANTE ELECTRONICO");
         Console.Write("Ingrese comprobante: ");

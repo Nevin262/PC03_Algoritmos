@@ -2,7 +2,7 @@ using System;
 
 class Sla
 {
-    static void Main(string[] args)
+    public static void Ejecutar()
     {
         Console.WriteLine("CALCULO DE SLA");
 
